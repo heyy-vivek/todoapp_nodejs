@@ -1,0 +1,1 @@
+project description: this is a nodejs based todo list maker app in which you can add new tasks to do, delete those which are done and all the CRUD operations basically, includes complete user authorization.
